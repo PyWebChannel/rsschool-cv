@@ -8,13 +8,13 @@
 ## About myself:
 I want to become a full stack developer👨‍💻
 ## Code examples:
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+**Javascript**
 ```javascript
 const greeting = () => {
  return 'Hello world!';
 };
 ```
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="JS" width="40" height="40"/>
+**Python**
 ```python
 def greeting():
     return 'Hello world!'
