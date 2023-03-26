@@ -21,8 +21,8 @@ def greeting():
 ```
 ## My skills:
 1. Python: Django, Flask, Selenium
-2. HTML5 / CSS3
-3. Database: SQLlite, MongoDB, PostgreSQL
+1. HTML5 / CSS3
+1. Database: SQLlite, MongoDB, PostgreSQL
 ## Education and courses:
 - University: Belarusian National Technical University, Energy Engineer
 - Python courses: [Погружение в Python / Сoursera ](https://www.coursera.org/account/accomplishments/verify/SG585A5WUCW8), [Программирование на Python / Stepik ](https://stepik.org/certificate/fa6f23ca19109bf55052a63d34f0626a570fd1de.pdf), [Python: основы и применение](https://stepik.org/cert/136110)
